@@ -1,0 +1,30 @@
+{
+  "transport": {
+    "english": ["bus", "railway", "train", "station", "transport", "airport"],
+    "tamil": ["பேருந்து", "ரயில்", "நிலையம்", "விமான"]
+  },
+  "directions_places": {
+    "english": ["entrance", "exit", "road", "street", "direction", "left", "right"],
+    "tamil": ["நுழைவு", "வெளியேறு", "சாலை", "இடது", "வலது", "வழி"]
+  },
+  "healthcare": {
+    "english": ["hospital", "clinic", "medical", "doctor", "pharmacy", "fertility", "infertility"],
+    "tamil": ["மருத்துவமனை", "மருத்துவ", "மருந்தகம்", "மருத்துவர்", "கருத்தரித்தல்", "கருத்தரிப்பு"]
+  },
+  "education": {
+    "english": ["school", "college", "university", "education"],
+    "tamil": ["பள்ளி", "கல்லூரி", "பல்கலைக்கழகம்", "கல்வி"]
+  },
+  "shops_businesses": {
+    "english": ["shop", "store", "market", "hotel", "restaurant", "business"],
+    "tamil": ["கடை", "சந்தை", "விடுதி", "உணவகம்"]
+  },
+  "warnings_prohibitions": {
+    "english": ["warning", "danger", "prohibited", "do not", "stop", "caution", "litter", "garbage", "waste"],
+    "tamil": ["எச்சரிக்கை", "ஆபத்து", "தடை", "நிறுத்து", "குப்பை", "போடாதே"]
+  },
+  "government_public_services": {
+    "english": ["government", "public service", "municipal", "police", "office"],
+    "tamil": ["அரசு", "காவல்", "அலுவலகம்", "பொது சேவை"]
+  }
+}

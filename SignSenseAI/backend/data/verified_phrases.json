@@ -1,0 +1,39 @@
+[
+  {
+    "tamil": "மருத்துவமனை",
+    "english": "Hospital",
+    "transliteration": "Maruthuvamanai",
+    "category": "healthcare",
+    "context": "This sign identifies a hospital or medical facility.",
+    "source": "User-provided project example"
+  },
+  {
+    "tamil": "குப்பை போடாதே",
+    "english": "Do not litter.",
+    "transliteration": "Kuppai podaathae",
+    "category": "warnings_prohibitions",
+    "context": "This sign prohibits littering.",
+    "source": "Phrase visually reviewed from the sign in the user's screenshot"
+  },
+  {
+    "tamil": "கருத்தரித்தல் மையம்",
+    "aliases": [
+      "கருத்தமித்தல் மையம்",
+      "கருத்தமித்தல மையம்",
+      "க த்தமித்தல் மையம்"
+    ],
+    "english": "Fertility Centre",
+    "transliteration": "Karuththarithal maiyam",
+    "category": "healthcare",
+    "context": "This sign identifies a fertility centre. The clinic name and any additional details should be checked on the original sign.",
+    "source": "Tamil service phrase visually reviewed from the user's sign screenshot; aliases are OCR variants observed in the screenshot"
+  },
+  {
+    "tamil": "அமைதியாக இருங்கள்",
+    "english": "Please remain quiet.",
+    "transliteration": "Amaithiyaaga irungal",
+    "category": "warnings_prohibitions",
+    "context": "This sign asks people to remain quiet.",
+    "source": "Phrase visually reviewed from the user's sign screenshot"
+  }
+]
